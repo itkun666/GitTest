@@ -7,6 +7,10 @@ public class Test03 {
 	public void test1(){
 		String str = "";
 		System.out.println();
+
+		//²âÊÔ³·Ïú
+		//³·Ïú²âÊÔ3
+//11
 	}
 
 }

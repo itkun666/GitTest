@@ -9,6 +9,9 @@ public class Test02 {
 	public static void main(String[] args) throws ParseException {
 		 SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss");
 		 Date date =  sdf.parse("15:00:05");
+		 //test
+		 //222
 	}
 
 }
+
